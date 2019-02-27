@@ -7,21 +7,22 @@ of 27 April 2016
 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 
 !!! quote ""
-	(Text with EEA relevance)
-
-	THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
-
-	Having regard to the Treaty on the Functioning of the European Union, and in particular Article 16 thereof,
-
-	Having regard to the proposal from the European Commission,
-
-	After transmission of the draft legislative act to the national parliaments,
-
-	Having regard to the opinion of the European Economic and Social Committee [^eu1],
 	
-	Having regard to the opinion of the Committee of the Regions [^eu2],
-	
-	Acting in accordance with the ordinary legislative procedure [^eu3],
+> (Text with EEA relevance)
+> 
+> THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+> 
+> Having regard to the Treaty on the Functioning of the European Union, and in particular Article 16 thereof,
+> 
+> Having regard to the proposal from the European Commission,
+> 
+> After transmission of the draft legislative act to the national parliaments,
+> 
+> Having regard to the opinion of the European Economic and Social Committee [^eu1],
+> 
+> Having regard to the opinion of the Committee of the Regions [^eu2],
+> 
+> Acting in accordance with the ordinary legislative procedure [^eu3],
 
 ### Whereas:
 <a name="rec1"></a>
@@ -560,7 +561,9 @@ General provisions
 
 3.   The free movement of personal data within the Union shall be neither restricted nor prohibited for reasons connected with the protection of natural persons with regard to the processing of personal data. 
 
-??? note "[Recital 1](#rec1), [Recital 2](#rec2), [Recital 3](#rec3), [Recital 4](#rec4), [Recital 5](#rec5), [Recital 6](#rec6), [Recital 7](#rec7), [Recital 8](#rec8), [Recital 9](#rec9), [Recital 10](#rec10), [Recital 11](#rec11), [Recital 12](#rec12), [Recital 13](#rec13)"
+@@@
+note "[Recital 1](#rec1), [Recital 2](#rec2), [Recital 3](#rec3), [Recital 4](#rec4), [Recital 5](#rec5), [Recital 6](#rec6), [Recital 7](#rec7), [Recital 8](#rec8), [Recital 9](#rec9), [Recital 10](#rec10), [Recital 11](#rec11), [Recital 12](#rec12), [Recital 13](#rec13)"
+@@@
 
 ### Article 2
 
@@ -582,7 +585,9 @@ General provisions
 
 4.   This Regulation shall be without prejudice to the application of Directive 2000/31/EC, in particular of the liability rules of intermediary service providers in Articles 12 to 15 of that Directive.  
 
-??? note "[Recital 14](#rec14), [Recital 15](#rec15), [Recital 16](#rec16), [Recital 17](#rec17), [Recital 18](#rec18), [Recital 19](#rec19), [Recital 20](#rec20), [Recital 21](#rec21)"
+@@@
+note "[Recital 14](#rec14), [Recital 15](#rec15), [Recital 16](#rec16), [Recital 17](#rec17), [Recital 18](#rec18), [Recital 19](#rec19), [Recital 20](#rec20), [Recital 21](#rec21)"
+@@@
 
 ### Article 3
 
@@ -598,7 +603,9 @@ General provisions
 
 3.   This Regulation applies to the processing of personal data by a controller not established in the Union, but in a place where Member State law applies by virtue of public international law.  
 
-??? note "[Recital 22](#rec22), [Recital 23](#rec23), [Recital 24](#rec24), [Recital 25](#rec25)"
+@@@
+note "[Recital 22](#rec22), [Recital 23](#rec23), [Recital 24](#rec24), [Recital 25](#rec25)"
+@@@
 
 ### Article 4
 
@@ -673,7 +680,9 @@ For the purposes of this Regulation:
 26. | ‘international organisation’ means an organisation and its subordinate bodies governed by public international law, or any other body which is set up by, or on the basis of, an agreement between two or more countries.  
 
 
-??? note "[Recital 26](#rec26), [Recital 27](#rec27), [Recital 28](#rec28), [Recital 29](#rec29), [Recital 30](#rec30), [Recital 31](#rec31), [Recital 32](#rec32), [Recital 33](#rec33), [Recital 34](#rec34), [Recital 35](#rec35), [Recital 36](#rec36), [Recital 37](#rec37)"
+@@@
+note "[Recital 26](#rec26), [Recital 27](#rec27), [Recital 28](#rec28), [Recital 29](#rec29), [Recital 30](#rec30), [Recital 31](#rec31), [Recital 32](#rec32), [Recital 33](#rec33), [Recital 34](#rec34), [Recital 35](#rec35), [Recital 36](#rec36), [Recital 37](#rec37)"
+@@@
 
 ## CHAPTER II
 
@@ -699,7 +708,9 @@ Principles
 
 2.   The controller shall be responsible for, and be able to demonstrate compliance with, paragraph 1 (‘accountability’).  
 
-??? note "[Recital 39](#rec39)"
+@@@
+note "[Recital 39](#rec39)"
+@@@
 
 ### Article 6
 
@@ -743,7 +754,9 @@ Principles
 
 	e. | the existence of appropriate safeguards, which may include encryption or pseudonymisation. 
 
-??? note "[Recital 40](#rec40), [Recital 41](#rec41), [Recital 42](#rec42), [Recital 43](#rec43), [Recital 44](#rec44), [Recital 45](#rec45), [Recital 46](#rec46), [Recital 47](#rec47), [Recital 48](#rec48), [Recital 49](#rec49), [Recital 50](#rec50), [Recital 155](#rec155)" 
+@@@
+note "[Recital 40](#rec40), [Recital 41](#rec41), [Recital 42](#rec42), [Recital 43](#rec43), [Recital 44](#rec44), [Recital 45](#rec45), [Recital 46](#rec46), [Recital 47](#rec47), [Recital 48](#rec48), [Recital 49](#rec49), [Recital 50](#rec50), [Recital 155](#rec155)" 
+@@@
 
 ### Article 7
 
@@ -757,21 +770,30 @@ Principles
 
 4.   When assessing whether consent is freely given, utmost account shall be taken of whether, inter alia, the performance of a contract, including the provision of a service, is conditional on consent to the processing of personal data that is not necessary for the performance of that contract.  
 
-??? note "[Recital 32](#rec32), [Recital 33](#rec33), [Recital 42](#rec42), [Recital 43](#rec43)"
+@@@
+note "[Recital 32](#rec32), [Recital 33](#rec33), [Recital 42](#rec42), [Recital 43](#rec43)"
+@@@
 
 ### Article 8
 
 #### Conditions applicable to child's consent in relation to information society services
 
-1.   Where point 	a. of Article 6(1) applies, in relation to the offer of information society services directly to a child, the processing of the personal data of a child shall be lawful where the child is at least 16 years old. Where the child is below the age of 16 years, such processing shall be lawful only if and to the extent that consent is given or authorised by the holder of parental responsibility over the child.  
+1.   Where point 	a. of Article 6(1) applies, in relation to the offer of information society services directly to a child, the processing of the personal data of a child shall be lawful where the child is at least 16 years old. Where the child is below the age of 16 years, such processing shall be lawful only if and to the extent that consent is given or authorised by the holder of parental responsibility over the child.
+      
+Member States may provide by law for a lower age for those purposes provided that such lower age is not below 13 years.  
 
-:	Member States may provide by law for a lower age for those purposes provided that such lower age is not below 13 years.  
+<ol>
+    <li value="2">
+        The controller shall make reasonable efforts to verify in such cases that consent is given or authorised by the holder of parental responsibility over the child, taking into consideration available technology.
+    </li>  
+    <li>
+        Paragraph 1 shall not affect the general contract law of Member States such as the rules on the validity, formation or effect of a contract in relation to a child.
+    </li>
+</ol>  
 
-2.   The controller shall make reasonable efforts to verify in such cases that consent is given or authorised by the holder of parental responsibility over the child, taking into consideration available technology.  
-
-3.   Paragraph 1 shall not affect the general contract law of Member States such as the rules on the validity, formation or effect of a contract in relation to a child.  
-
-??? note "[Recital 38](#rec38)"
+@@@
+note "[Recital 38](#rec38)"
+@@@
 
 ### Article 9
 
@@ -805,7 +827,9 @@ Principles
 
 4.   Member States may maintain or introduce further conditions, including limitations, with regard to the processing of genetic data, biometric data or data concerning health.  
 
-??? note "[Recital 51](#rec51), [Recital 52](#rec52), [Recital 53](#rec53), [Recital 54](#rec54), [Recital 55](#rec55), [Recital 56](#rec56)"
+@@@
+note "[Recital 51](#rec51), [Recital 52](#rec52), [Recital 53](#rec53), [Recital 54](#rec54), [Recital 55](#rec55), [Recital 56](#rec56)"
+@@@
 
 ### Article 10
 
@@ -821,7 +845,9 @@ Processing of personal data relating to criminal convictions and offences or rel
 
 2.   Where, in cases referred to in paragraph 1 of this Article, the controller is able to demonstrate that it is not in a position to identify the data subject, the controller shall inform the data subject accordingly, if possible. In such cases, Articles 15 to 20 shall not apply except where the data subject, for the purpose of exercising his or her rights under those articles, provides additional information enabling his or her identification.  
 
-??? note "[Recital 57](#rec57)"
+@@@
+note "[Recital 57](#rec57)"
+@@@
 
 ## CHAPTER III
 
@@ -857,7 +883,9 @@ Transparency and modalities
 
 8.   The Commission shall be empowered to adopt delegated acts in accordance with Article 92 for the purpose of determining the information to be presented by the icons and the procedures for providing standardised icons.  
 
-??? note "[Recital 58](#rec58), [Recital 59](#rec59)"
+@@@
+note "[Recital 58](#rec58), [Recital 59](#rec59)"
+@@@
 
 ## Section 2
 
@@ -899,7 +927,9 @@ Information and access to personal data
 
 4.   Paragraphs 1, 2 and 3 shall not apply where and insofar as the data subject already has the information.  
 
-??? note "[Recital 60](#rec60), [Recital 61](#rec61), [Recital 62](#rec62)"
+@@@
+note "[Recital 60](#rec60), [Recital 61](#rec61), [Recital 62](#rec62)"
+@@@
 
 ### Article 14
 
@@ -983,7 +1013,9 @@ Information and access to personal data
 
 4.   The right to obtain a copy referred to in paragraph 3 shall not adversely affect the rights and freedoms of others.  
 
-??? note "[Recital 63](#rec63), [Recital 64](#rec64)"
+@@@
+note "[Recital 63](#rec63), [Recital 64](#rec64)"
+@@@
 
 ## Section 3
 
@@ -995,7 +1027,9 @@ Rectification and erasure
 
 The data subject shall have the right to obtain from the controller without undue delay the rectification of inaccurate personal data concerning him or her. Taking into account the purposes of the processing, the data subject shall have the right to have incomplete personal data completed, including by means of providing a supplementary statement.  
 
-??? note "[Recital 65](#rec65)"
+@@@
+note "[Recital 65](#rec65)"
+@@@
 
 ### Article 17
 
@@ -1029,7 +1063,9 @@ The data subject shall have the right to obtain from the controller without undu
 
 	e. | for the establishment, exercise or defence of legal claims.  
 
-??? note "[Recital 65](#rec65), [Recital 66](#rec66)"
+@@@
+note "[Recital 65](#rec65), [Recital 66](#rec66)"
+@@@
 
 ### Article 18
 
@@ -1048,7 +1084,9 @@ The data subject shall have the right to obtain from the controller without undu
 2.   Where processing has been restricted under paragraph 1, such personal data shall, with the exception of storage, only be processed with the data subject's consent or for the establishment, exercise or defence of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest of the Union or of a Member State.  
 
 3.   A data subject who has obtained restriction of processing pursuant to paragraph 1 shall be informed by the controller before the restriction of processing is lifted.  
-??? note "[Recital 67](#rec67)"
+@@@
+note "[Recital 67](#rec67)"
+@@@
 
 ### Article 19
 
@@ -1072,7 +1110,9 @@ The controller shall communicate any rectification or erasure of personal data o
 
 4.   The right referred to in paragraph 1 shall not adversely affect the rights and freedoms of others.  
 
-??? note "[Recital 68](#rec68)"
+@@@
+note "[Recital 68](#rec68)"
+@@@
 
 ## Section 4
 
@@ -1094,7 +1134,9 @@ Right to object and automated individual decision-making
 
 6.   Where personal data are processed for scientific or historical research purposes or statistical purposes pursuant to Article 89(1), the data subject, on grounds relating to his or her particular situation, shall have the right to object to processing of personal data concerning him or her, unless the processing is necessary for the performance of a task carried out for reasons of public interest.  
 
-??? note "[Recital 69](#rec69), [Recital 70](#rec70)"
+@@@
+note "[Recital 69](#rec69), [Recital 70](#rec70)"
+@@@
 
 ### Article 22
 
@@ -1114,7 +1156,9 @@ Right to object and automated individual decision-making
 
 4.   Decisions referred to in paragraph 2 shall not be based on special categories of personal data referred to in Article 9(1), unless point 	a. or 	g. of Article 9(2) applies and suitable measures to safeguard the data subject's rights and freedoms and legitimate interests are in place.  
 
-??? note "[Recital 71](#rec71), [Recital 72](#rec72)"
+@@@
+note "[Recital 71](#rec71), [Recital 72](#rec72)"
+@@@
 
 ## Section 5
 
@@ -1164,7 +1208,9 @@ Restrictions
 
 	h. | the right of data subjects to be informed about the restriction, unless that may be prejudicial to the purpose of the restriction.  
 
-??? note "[Recital 73](#rec73)"
+@@@
+note "[Recital 73](#rec73)"
+@@@
 
 ## CHAPTER IV
 
@@ -1184,7 +1230,9 @@ General obligations
 
 3.   Adherence to approved codes of conduct as referred to in Article 40 or approved certification mechanisms as referred to in Article 42 may be used as an element by which to demonstrate compliance with the obligations of the controller.  
 
-??? note "[Recital 74](#rec74), [Recital 75](#rec75), [Recital 76](#rec76), [Recital 77](#rec77), [Recital 83](#rec83)"
+@@@
+note "[Recital 74](#rec74), [Recital 75](#rec75), [Recital 76](#rec76), [Recital 77](#rec77), [Recital 83](#rec83)"
+@@@
 
 ### Article 25
 
@@ -1196,7 +1244,9 @@ General obligations
 
 3.   An approved certification mechanism pursuant to Article 42 may be used as an element to demonstrate compliance with the requirements set out in paragraphs 1 and 2 of this Article.  
 
-??? note "[Recital 78](#rec78)"
+@@@
+note "[Recital 78](#rec78)"
+@@@
 
 ### Article 26
 
@@ -1208,7 +1258,9 @@ General obligations
 
 3.   Irrespective of the terms of the arrangement referred to in paragraph 1, the data subject may exercise his or her rights under this Regulation in respect of and against each of the controllers.  
 
-??? note "[Recital 79](#rec79)"
+@@@
+note "[Recital 79](#rec79)"
+@@@
 
 ### Article 27
 
@@ -1228,7 +1280,9 @@ General obligations
 
 5.   The designation of a representative by the controller or processor shall be without prejudice to legal actions which could be initiated against the controller or the processor themselves.  
 
-??? note "[Recital 80](#rec80)"
+@@@
+note "[Recital 80](#rec80)"
+@@@
 
 ### Article 28
 
@@ -1272,7 +1326,9 @@ General obligations
 
 10.   Without prejudice to Articles 82, 83 and 84, if a processor infringes this Regulation by determining the purposes and means of processing, the processor shall be considered to be a controller in respect of that processing.  
 
-??? note "[Recital 81](#rec81)"
+@@@
+note "[Recital 81](#rec81)"
+@@@
 
 ### Article 29
 
@@ -1316,7 +1372,9 @@ The processor and any person acting under the authority of the controller or of 
 
 5.   The obligations referred to in paragraphs 1 and 2 shall not apply to an enterprise or an organisation employing fewer than 250 persons unless the processing it carries out is likely to result in a risk to the rights and freedoms of data subjects, the processing is not occasional, or the processing includes special categories of data as referred to in Article 9(1) or personal data relating to criminal convictions and offences referred to in Article 10.  
 
-??? note "[Recital 13](#rec13), [Recital 39](#rec39), [Recital 82](#rec82)"
+@@@
+note "[Recital 13](#rec13), [Recital 39](#rec39), [Recital 82](#rec82)"
+@@@
 
 ### Article 31
 
@@ -1348,7 +1406,9 @@ Security of personal data
 
 4.   The controller and processor shall take steps to ensure that any natural person acting under the authority of the controller or the processor who has access to personal data does not process them except on instructions from the controller, unless he or she is required to do so by Union or Member State law.  
 
-??? note "[Recital 83](#rec83), [Recital 74](#rec74), [Recital 75](#rec75), [Recital 76](#rec76), [Recital 77](#rec77)"
+@@@
+note "[Recital 83](#rec83), [Recital 74](#rec74), [Recital 75](#rec75), [Recital 76](#rec76), [Recital 77](#rec77)"
+@@@
 
 ### Article 33
 
@@ -1372,7 +1432,9 @@ Security of personal data
 
 5.   The controller shall document any personal data breaches, comprising the facts relating to the personal data breach, its effects and the remedial action taken. That documentation shall enable the supervisory authority to verify compliance with this Article.  
 
-??? note "[Recital 75](#rec75), [Recital 85](#rec85), [Recital 87](#rec87), [Recital 88](#rec88)"
+@@@
+note "[Recital 75](#rec75), [Recital 85](#rec85), [Recital 87](#rec87), [Recital 88](#rec88)"
+@@@
 
 ### Article 34
 
@@ -1392,7 +1454,9 @@ Security of personal data
 
 4.   If the controller has not already communicated the personal data breach to the data subject, the supervisory authority, having considered the likelihood of the personal data breach resulting in a high risk, may require it to do so or may decide that any of the conditions referred to in paragraph 3 are met.  
 
-??? note "[Recital 75](#rec75), [Recital 86](#rec86), [Recital 87](#rec87), [Recital 88](#rec88)"
+@@@
+note "[Recital 75](#rec75), [Recital 86](#rec86), [Recital 87](#rec87), [Recital 88](#rec88)"
+@@@
 
 ## Section 3
 
@@ -1438,7 +1502,9 @@ Data protection impact assessment and prior consultation
 
 11.   Where necessary, the controller shall carry out a review to assess if processing is performed in accordance with the data protection impact assessment at least when there is a change of the risk represented by processing operations.  
 
-??? note "[Recital 75](#rec75), [Recital 84](#rec84), [Recital 89](#rec89), [Recital 90](#rec90), [Recital 91](#rec91), [Recital 92](#rec92), [Recital 93](#rec93)"
+@@@
+note "[Recital 75](#rec75), [Recital 84](#rec84), [Recital 89](#rec89), [Recital 90](#rec90), [Recital 91](#rec91), [Recital 92](#rec92), [Recital 93](#rec93)"
+@@@
 
 ### Article 36
 
@@ -1466,7 +1532,9 @@ Data protection impact assessment and prior consultation
 
 5.   Notwithstanding paragraph 1, Member State law may require controllers to consult with, and obtain prior authorisation from, the supervisory authority in relation to processing by a controller for the performance of a task carried out by the controller in the public interest, including processing in relation to social protection and public health.  
 
-??? note "[Recital 94](#rec94), [Recital 95](#rec95), [Recital 96](#rec96)"
+@@@
+note "[Recital 94](#rec94), [Recital 95](#rec95), [Recital 96](#rec96)"
+@@@
 
 ## Section 4
 
@@ -1496,7 +1564,9 @@ Data protection officer
 
 7.   The controller or the processor shall publish the contact details of the data protection officer and communicate them to the supervisory authority.  
 
-??? note "[Recital 97](#rec97)"
+@@@
+note "[Recital 97](#rec97)"
+@@@
 
 ### Article 38
 
@@ -1514,7 +1584,9 @@ Data protection officer
 
 6.   The data protection officer may fulfil other tasks and duties. The controller or processor shall ensure that any such tasks and duties do not result in a conflict of interests.
 
-??? note "[Recital 97](#rec97)"  
+@@@
+note "[Recital 97](#rec97)"  
+@@@
 
 ### Article 39
 
@@ -1534,7 +1606,9 @@ Data protection officer
 
 2.   The data protection officer shall in the performance of his or her tasks have due regard to the risk associated with processing operations, taking into account the nature, scope, context and purposes of processing.  
 
-??? note "[Recital 97](#rec97)"
+@@@
+note "[Recital 97](#rec97)"
+@@@
 
 ## Section 5
 
@@ -1588,7 +1662,9 @@ Codes of conduct and certification
 
 11.   The Board shall collate all approved codes of conduct, amendments and extensions in a register and shall make them publicly available by way of appropriate means.  
 
-??? note "[Recital 98](#rec98), [Recital 99](#rec99)"
+@@@
+note "[Recital 98](#rec98), [Recital 99](#rec99)"
+@@@
 
 ### Article 41
 
@@ -1634,7 +1710,9 @@ Codes of conduct and certification
 
 8.   The Board shall collate all certification mechanisms and data protection seals and marks in a register and shall make them publicly available by any appropriate means.  
 
-??? note "[Recital 100](#rec100)"
+@@@
+note "[Recital 100](#rec100)"
+@@@
 
 ### Article 43
 
@@ -1682,7 +1760,9 @@ Transfers of personal data to third countries or international organisations
 
 Any transfer of personal data which are undergoing processing or are intended for processing after transfer to a third country or to an international organisation shall take place only if, subject to the other provisions of this Regulation, the conditions laid down in this Chapter are complied with by the controller and processor, including for onward transfers of personal data from the third country or an international organisation to another third country or to another international organisation. All provisions in this Chapter shall be applied in order to ensure that the level of protection of natural persons guaranteed by this Regulation is not undermined.  
 
-??? note "[Recital 101](#rec101), [Recital 102](#rec102)"
+@@@
+note "[Recital 101](#rec101), [Recital 102](#rec102)"
+@@@
 
 ### Article 45
 
@@ -1714,7 +1794,9 @@ Any transfer of personal data which are undergoing processing or are intended fo
 
 9.   Decisions adopted by the Commission on the basis of Article 25(6) of Directive 95/46/EC shall remain in force until amended, replaced or repealed by a Commission Decision adopted in accordance with paragraph 3 or 5 of this Article.  
 
-??? note "[Recital 103](#rec103), [Recital 104](#rec104), [Recital 105](#rec105), [Recital 106](#rec106), [Recital 107](#rec107)"
+@@@
+note "[Recital 103](#rec103), [Recital 104](#rec104), [Recital 105](#rec105), [Recital 106](#rec106), [Recital 107](#rec107)"
+@@@
 
 ### Article 46
 
@@ -1746,7 +1828,9 @@ Any transfer of personal data which are undergoing processing or are intended fo
 
 5.   Authorisations by a Member State or supervisory authority on the basis of Article 26(2) of Directive 95/46/EC shall remain valid until amended, replaced or repealed, if necessary, by that supervisory authority. Decisions adopted by the Commission on the basis of Article 26(4) of Directive 95/46/EC shall remain in force until amended, replaced or repealed, if necessary, by a Commission Decision adopted in accordance with paragraph 2 of this Article.  
 
-??? note "[Recital 108](#rec108), [Recital 109](#rec109)"
+@@@
+note "[Recital 108](#rec108), [Recital 109](#rec109)"
+@@@
 
 ### Article 47
 
@@ -1792,7 +1876,9 @@ Any transfer of personal data which are undergoing processing or are intended fo
 
 3.   The Commission may specify the format and procedures for the exchange of information between controllers, processors and supervisory authorities for binding corporate rules within the meaning of this Article. Those implementing acts shall be adopted in accordance with the examination procedure set out in Article 93(2).  
 
-??? note "[Recital 110](#rec110)"
+@@@
+note "[Recital 110](#rec110)"
+@@@
 
 ### Article 48
 
@@ -1832,7 +1918,9 @@ Any judgment of a court or tribunal and any decision of an administrative author
 
 6.   The controller or processor shall document the assessment as well as the suitable safeguards referred to in the second subparagraph of paragraph 1 of this Article in the records referred to in Article 30.  
 
-??? note "[Recital 111](#rec111), [Recital 112](#rec112), [Recital 113](#rec113), [Recital 114](#rec114), [Recital 115](#rec115), [Recital 116](#rec116)"
+@@@
+note "[Recital 111](#rec111), [Recital 112](#rec112), [Recital 113](#rec113), [Recital 114](#rec114), [Recital 115](#rec115), [Recital 116](#rec116)"
+@@@
 
 ### Article 50
 
@@ -1868,7 +1956,9 @@ Independent status
 
 4.   Each Member State shall notify to the Commission the provisions of its law which it adopts pursuant to this Chapter, by 25 May 2018 and, without delay, any subsequent amendment affecting them.  
 
-??? note "[Recital 117](#rec117), [Recital 118](#rec118), [Recital 119](#rec119)"
+@@@
+note "[Recital 117](#rec117), [Recital 118](#rec118), [Recital 119](#rec119)"
+@@@
 
 ### Article 52
 
@@ -1886,7 +1976,9 @@ Independent status
 
 6.   Each Member State shall ensure that each supervisory authority is subject to financial control which does not affect its independence and that it has separate, public annual budgets, which may be part of the overall state or national budget.  
 
-??? note "[Recital 118](#rec118), [Recital 120](#rec120)"
+@@@
+note "[Recital 118](#rec118), [Recital 120](#rec120)"
+@@@
 
 ### Article 53
 
@@ -1908,7 +2000,9 @@ Independent status
 
 4.   A member shall be dismissed only in cases of serious misconduct or if the member no longer fulfils the conditions required for the performance of the duties.  
 
-??? note "[Recital 121](#rec121)"
+@@@
+note "[Recital 121](#rec121)"
+@@@
 
 ### Article 54
 
@@ -1944,7 +2038,9 @@ Competence, tasks and powers
 
 3.   Supervisory authorities shall not be competent to supervise processing operations of courts acting in their judicial capacity.  
 
-??? note "[Recital 122](#rec122)"
+@@@
+note "[Recital 122](#rec122)"
+@@@
 
 ### Article 56
 
@@ -1962,7 +2058,9 @@ Competence, tasks and powers
 
 6.   The lead supervisory authority shall be the sole interlocutor of the controller or processor for the cross-border processing carried out by that controller or processor.  
 
-??? note "[Recital 124](#rec124), [Recital 125](#rec125), [Recital 126](#rec126), [Recital 127](#rec127), [Recital 128](#rec128)"
+@@@
+note "[Recital 124](#rec124), [Recital 125](#rec125), [Recital 126](#rec126), [Recital 127](#rec127), [Recital 128](#rec128)"
+@@@
 
 ### Article 57
 
@@ -2020,7 +2118,9 @@ Competence, tasks and powers
 
 4.   Where requests are manifestly unfounded or excessive, in particular because of their repetitive character, the supervisory authority may charge a reasonable fee based on administrative costs, or refuse to act on the request. The supervisory authority shall bear the burden of demonstrating the manifestly unfounded or excessive character of the request.  
 
-??? note "[Recital 123](#rec123), [Recital 132](#rec132)"
+@@@
+note "[Recital 123](#rec123), [Recital 132](#rec132)"
+@@@
 
 ### Article 58
 
@@ -2090,7 +2190,9 @@ Competence, tasks and powers
 
 6.   Each Member State may provide by law that its supervisory authority shall have additional powers to those referred to in paragraphs 1, 2 and 3\. The exercise of those powers shall not impair the effective operation of Chapter VII.  
 
-??? note "[Recital 129](#rec129)"
+@@@
+note "[Recital 129](#rec129)"
+@@@
 
 ### Article 59
 
@@ -2134,7 +2236,9 @@ Cooperation
 
 12.   The lead supervisory authority and the other supervisory authorities concerned shall supply the information required under this Article to each other by electronic means, using a standardised format.  
 
-??? note "[Recital 124](#rec124), [Recital 125](#rec125), [Recital 126](#rec126), [Recital 127](#rec127), [Recital 128](#rec128), [Recital 130](#rec130), [Recital 131](#rec131)"
+@@@
+note "[Recital 124](#rec124), [Recital 125](#rec125), [Recital 126](#rec126), [Recital 127](#rec127), [Recital 128](#rec128), [Recital 130](#rec130), [Recital 131](#rec131)"
+@@@
 
 ### Article 61
 
@@ -2162,7 +2266,9 @@ Cooperation
 
 9.   The Commission may, by means of implementing acts, specify the format and procedures for mutual assistance referred to in this Article and the arrangements for the exchange of information by electronic means between supervisory authorities, and between supervisory authorities and the Board, in particular the standardised format referred to in paragraph 6 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 93(2).  
 
-??? note "[Recital 133](#rec133)"
+@@@
+note "[Recital 133](#rec133)"
+@@@
 
 ### Article 62
 
@@ -2182,7 +2288,9 @@ Cooperation
 
 7.   Where a joint operation is intended and a supervisory authority does not, within one month, comply with the obligation laid down in the second sentence of paragraph 2 of this Article, the other supervisory authorities may adopt a provisional measure on the territory of its Member State in accordance with Article 55\. In that case, the urgent need to act under Article 66(1) shall be presumed to be met and require an opinion or an urgent binding decision from the Board pursuant to Article 66(2).  
 
-??? note "[Recital 134](#rec134)"
+@@@
+note "[Recital 134](#rec134)"
+@@@
 
 ## Section 2
 
@@ -2194,7 +2302,9 @@ Consistency
 
 In order to contribute to the consistent application of this Regulation throughout the Union, the supervisory authorities shall cooperate with each other and, where relevant, with the Commission, through the consistency mechanism as set out in this Section.  
 
-??? note "[Recital 135](#rec135)"
+@@@
+note "[Recital 135](#rec135)"
+@@@
 
 ### Article 64
 
@@ -2232,7 +2342,9 @@ In order to contribute to the consistent application of this Regulation througho
 
 8.   Where the {++competent++} supervisory authority {~~concerned~>reffered to in paragraph 1~~} informs the Chair of the Board within the period referred to in paragraph 7 of this Article that it does not intend to follow the opinion of the Board, in whole or in part, providing the relevant grounds, Article 65(1) shall apply.  
 
-??? note "[Recital 136](#rec136)"
+@@@
+note "[Recital 136](#rec136)"
+@@@
 
 ### Article 65
 
@@ -2268,7 +2380,9 @@ In order to contribute to the consistent application of this Regulation througho
 
 4.   By derogation from Article 64(3) and Article 65(2), an urgent opinion or an urgent binding decision referred to in paragraphs 2 and 3 of this Article shall be adopted within two weeks by simple majority of the members of the Board.  
 
-??? note "[Recital 137](#rec137), [Recital 138](#rec138)"
+@@@
+note "[Recital 137](#rec137), [Recital 138](#rec138)"
+@@@
 
 ### Article 67
 
@@ -2298,7 +2412,9 @@ European data protection board
 
 6.   In the cases referred to in Article 65, the European Data Protection Supervisor shall have voting rights only on decisions which concern principles and rules applicable to the Union institutions, bodies, offices and agencies which correspond in substance to those of this Regulation.  
 
-??? note "[Recital 139](#rec139)"
+@@@
+note "[Recital 139](#rec139)"
+@@@
 
 ### Article 69
 
@@ -2308,7 +2424,9 @@ European data protection board
 
 2.   Without prejudice to requests by the Commission referred to in {~~point b. of~~} Article 70(1) and {~~in Article 70~~}(2), the Board shall, in the performance of its tasks or the exercise of its powers, neither seek nor take instructions from anybody.
 
-??? note "[Recital 139](#rec139)"  
+@@@
+note "[Recital 139](#rec139)"  
+@@@
 
 ### Article 70
 
@@ -2372,7 +2490,9 @@ European data protection board
 
 4.   The Board shall, where appropriate, consult interested parties and give them the opportunity to comment within a reasonable period. The Board shall, without prejudice to Article 76, make the results of the consultation procedure publicly available.  
 
-??? note "[Recital 139](#rec139)"
+@@@
+note "[Recital 139](#rec139)"
+@@@
 
 ### Article 71
 
@@ -2442,7 +2562,9 @@ European data protection board
 
 	g. | the preparation, drafting and publication of opinions, decisions on the settlement of disputes between supervisory authorities and other texts adopted by the Board.  
 
-??? note "[Recital 140](#rec140)"
+@@@
+note "[Recital 140](#rec140)"
+@@@
 
 ### Article 76
 
@@ -2464,7 +2586,9 @@ Remedies, liability and penalties
 
 2.   The supervisory authority with which the complaint has been lodged shall inform the complainant on the progress and the outcome of the complaint including the possibility of a judicial remedy pursuant to Article 78.  
 
-??? note "[Recital 141](#rec141)"
+@@@
+note "[Recital 141](#rec141)"
+@@@
 
 ### Article 78
 
@@ -2478,7 +2602,9 @@ Remedies, liability and penalties
 
 4.   Where proceedings are brought against a decision of a supervisory authority which was preceded by an opinion or a decision of the Board in the consistency mechanism, the supervisory authority shall forward that opinion or decision to the court.  
 
-??? note "[Recital 143](#rec143)"
+@@@
+note "[Recital 143](#rec143)"
+@@@
 
 ### Article 79
 
@@ -2488,7 +2614,9 @@ Remedies, liability and penalties
 
 2.   Proceedings against a controller or a processor shall be brought before the courts of the Member State where the controller or processor has an establishment. Alternatively, such proceedings may be brought before the courts of the Member State where the data subject has his or her habitual residence, unless the controller or processor is a public authority of a Member State acting in the exercise of its public powers.  
 
-??? note "[Recital 145](#rec145)"
+@@@
+note "[Recital 145](#rec145)"
+@@@
 
 ### Article 80
 
@@ -2498,7 +2626,9 @@ Remedies, liability and penalties
 
 2.   Member States may provide that any body, organisation or association referred to in paragraph 1 of this Article, independently of a data subject's mandate, has the right to lodge, in that Member State, a complaint with the supervisory authority which is competent pursuant to Article 77 and to exercise the rights referred to in Articles 78 and 79 if it considers that the rights of a data subject under this Regulation have been infringed as a result of the processing.  
 
-??? note "[Recital 142](#rec142)"
+@@@
+note "[Recital 142](#rec142)"
+@@@
 
 ### Article 81
 
@@ -2510,7 +2640,9 @@ Remedies, liability and penalties
 
 3.   Where those proceedings are pending at first instance, any court other than the court first seized may also, on the application of one of the parties, decline jurisdiction if the court first seized has jurisdiction over the actions in question and its law permits the consolidation thereof.  
 
-??? note "[Recital 144](#rec144)"
+@@@
+note "[Recital 144](#rec144)"
+@@@
 
 ### Article 82
 
@@ -2528,7 +2660,9 @@ Remedies, liability and penalties
 
 6.   Court proceedings for exercising the right to receive compensation shall be brought before the courts competent under the law of the Member State referred to in Article 79(2).  
 
-??? note "[Recital 146](#rec146), [Recital 147](#rec147)"
+@@@
+note "[Recital 146](#rec146), [Recital 147](#rec147)"
+@@@
 
 ### Article 83
 
@@ -2590,7 +2724,9 @@ Remedies, liability and penalties
 
 9.   Where the legal system of the Member State does not provide for administrative fines, this Article may be applied in such a manner that the fine is initiated by the competent supervisory authority and imposed by competent national courts, while ensuring that those legal remedies are effective and have an equivalent effect to the administrative fines imposed by supervisory authorities. In any event, the fines imposed shall be effective, proportionate and dissuasive. Those Member States shall notify to the Commission the provisions of their laws which they adopt pursuant to this paragraph by 25 May 2018 and, without delay, any subsequent amendment law or amendment affecting them.  
 
-??? note "[Recital 148](#rec148), [Recital 150](#rec150), [Recital 151](#rec151)"
+@@@
+note "[Recital 148](#rec148), [Recital 150](#rec150), [Recital 151](#rec151)"
+@@@
 
 ### Article 84
 
@@ -2600,7 +2736,9 @@ Remedies, liability and penalties
 
 2.   Each Member State shall notify to the Commission the provisions of its law which it adopts pursuant to paragraph 1, by 25 May 2018 and, without delay, any subsequent amendment affecting them.  
 
-??? note "[Recital 149](#rec149), [Recital 152](#rec152)"
+@@@
+note "[Recital 149](#rec149), [Recital 152](#rec152)"
+@@@
 
 ## CHAPTER IX
 
@@ -2616,7 +2754,9 @@ Provisions relating to specific processing situations
 
 3.   Each Member State shall notify to the Commission the provisions of its law which it has adopted pursuant to paragraph 2 and, without delay, any subsequent amendment law or amendment affecting them.  
 
-??? note "[Recital 153](#rec153)"
+@@@
+note "[Recital 153](#rec153)"
+@@@
 
 ### Article 86
 
@@ -2624,7 +2764,9 @@ Provisions relating to specific processing situations
 
 Personal data in official documents held by a public authority or a public body or a private body for the performance of a task carried out in the public interest may be disclosed by the authority or body in accordance with Union or Member State law to which the public authority or body is subject in order to reconcile public access to official documents with the right to the protection of personal data pursuant to this Regulation.  
 
-??? note "[Recital 154](#rec154)"
+@@@
+note "[Recital 154](#rec154)"
+@@@
 
 ### Article 87
 
@@ -2642,7 +2784,9 @@ Member States may further determine the specific conditions for the processing o
 
 3.   Each Member State shall notify to the Commission those provisions of its law which it adopts pursuant to paragraph 1, by 25 May 2018 and, without delay, any subsequent amendment affecting them.  
 
-??? note "[Recital 155](#rec155)"
+@@@
+note "[Recital 155](#rec155)"
+@@@
 
 ### Article 89
 
@@ -2656,7 +2800,9 @@ Member States may further determine the specific conditions for the processing o
 
 4.   Where processing referred to in paragraphs 2 and 3 serves at the same time another purpose, the derogations shall apply only to processing for the purposes referred to in those paragraphs.  
 
-??? note "[Recital 156](#rec156), [Recital 157](#rec157), [Recital 158](#rec158), [Recital 159](#rec159), [Recital 160](#rec160), [Recital 161](#rec161), [Recital 162](#rec162), [Recital 163](#rec163)"
+@@@
+note "[Recital 156](#rec156), [Recital 157](#rec157), [Recital 158](#rec158), [Recital 159](#rec159), [Recital 160](#rec160), [Recital 161](#rec161), [Recital 162](#rec162), [Recital 163](#rec163)"
+@@@
 
 ### Article 90
 
@@ -2666,7 +2812,9 @@ Member States may further determine the specific conditions for the processing o
 
 2.   Each Member State shall notify to the Commission the rules adopted pursuant to paragraph 1, by 25 May 2018 and, without delay, any subsequent amendment affecting them.  
 
-??? note "[Recital 164](#rec164)"
+@@@
+note "[Recital 164](#rec164)"
+@@@
 
 ### Article 91
 
@@ -2676,7 +2824,9 @@ Member States may further determine the specific conditions for the processing o
 
 2.   Churches and religious associations which apply comprehensive rules in accordance with paragraph 1 of this Article shall be subject to the supervision of an independent supervisory authority, which may be specific, provided that it fulfils the conditions laid down in Chapter VI of this Regulation.  
 
-??? note "[Recital 165](#rec165)"
+@@@
+note "[Recital 165](#rec165)"
+@@@
 
 ## CHAPTER X
 
@@ -2696,7 +2846,9 @@ Delegated acts and implementing acts
 
 5.   A delegated act adopted pursuant to Article 12(8) and Article 43(8) shall enter into force only if no objection has been expressed by either the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.  
 
-??? note "[Recital 166](#rec166), [Recital 167](#rec167), [Recital 168](#rec168), [Recital 169](#rec169), [Recital 170](#rec170)"
+@@@
+note "[Recital 166](#rec166), [Recital 167](#rec167), [Recital 168](#rec168), [Recital 169](#rec169), [Recital 170](#rec170)"
+@@@
 
 ### Article 93
 
@@ -2720,7 +2872,9 @@ Final provisions
 
 2.   References to the repealed Directive shall be construed as references to this Regulation. References to the Working Party on the Protection of Individuals with regard to the Processing of Personal Data established by Article 29 of Directive 95/46/EC shall be construed as references to the European Data Protection Board established by this Regulation.  
 
-??? note "[Recital 171](#rec171)"
+@@@
+note "[Recital 171](#rec171)"
+@@@
 
 ### Article 95
 
@@ -2728,7 +2882,9 @@ Final provisions
 
 This Regulation shall not impose additional obligations on natural or legal persons in relation to processing in connection with the provision of publicly available electronic communications services in public communication networks in the Union in relation to matters for which they are subject to specific obligations with the same objective set out in Directive 2002/58/EC.  
 
-??? note "[Recital 173](#rec173)"
+@@@
+note "[Recital 173](#rec173)"
+@@@
 
 ### Article 96
 
