@@ -790,7 +790,7 @@ Member States may provide by law for a lower age for those purposes provided tha
 </ol>  
 
 @@@
-note "[Recital 38](#rec38), [ICO Code: Age appropriate design](https://ico.org.uk/for-organisations/guide-to-data-protection/key-data-protection-themes/age-appropriate-design-a-code-of-practice-for-online-services/)" 
+note "[Recital 38](#rec38)"
 @@@
 
 ### Article 9
